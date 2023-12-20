@@ -1,0 +1,21 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+   }
+  
+   .about-img img{
+    width: 25vw;
+    margin-right: -2vh;
+   }
+  
+   .heading{
+    font-size: 4.5rem;
+    text-align: center;
+   }
+  
+   .about-content h2 {
+    text-align: left;
+    line-height: 1.2;
+   }
